@@ -75,25 +75,6 @@
             "technologies": "Javascript, TypeScript, AngularJS, D3.js, less, socket.io, node.js, mysql, monkey-c, boost-build, Jenkins CI, Java"
           },
           {
-            "name": "TAF Technologies LLC",
-            "url": "https://vaultunited.com/",
-            "location": "Kansas City, KS",
-            "subText": "Software Engineering Consultant. July 2015 - Present",
-            "description": "Design and implement iOS and web based technologies for bluetooth enabled track and field devices",
-            "involvement": [
-              {
-                "description": "Communicated with stakeholders to design and plan product release cycle."
-              },
-              {
-                "description": "Developed a native iOS application to communicate, control, and modify BLE enabled track and field sensors."
-              },
-              {
-                "description": "Developed scalable web application to allow cross-device access to athlete information and allow large-scale data analysis."
-              }
-            ],
-            "technologies": "Swift, Objective-C, JavaScript (node.js), AngularJS, PostgreSQL, AWS Technologies"
-          },
-          {
             "name": "GTM Sportswear",
             "url": "http://gtmsportswear.com/",
             "location": "Manhattan, KS",

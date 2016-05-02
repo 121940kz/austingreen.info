@@ -37,6 +37,30 @@
               "description": "1st place in the CIS Department and 2nd overall in Engineering for developing a web-based responsive recruitment display for the Spring 2014 Engineering Open House."
             }
           ]
+        },
+        {
+          "name": "Hack K-State Hackathon",
+          "url": "http://devpost.com/software/www-textalexa-tech",
+          "location": "Manhattan, KS",
+          "subText": "Kansas State University Hackathon sponsored by Major League Hacking",
+          "description": "",
+          "involvement": [
+            {
+              "description": "Won first place and were picked as a 'Staff Favorite' by <a href='http://devpost.com/'>DevPost.com</a>"
+            },
+            {
+              "description": "Created system to support text messaging with personal contacts on Amazon Echo devices."
+            },
+            {
+              "description": "Used node.js, AWS Lambda, AWS Skills Kit, Digital Ocean, and the Ionic Framework to create applications."
+            },
+            {
+              "description": "Web-service is available here <a href='https://github.com/austin94/TextAlexa'>https://github.com/austin94/TextAlexa</a>"
+            },
+            {
+              "description": "Mobile Applications are available here <a href='https://github.com/austin94/TextAlexa-Mobile'>https://github.com/austin94/TextAlexa-Mobile</a>"
+            }
+          ]
         }
       ]
     },

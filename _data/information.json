@@ -75,9 +75,12 @@
             "description": "Design and implement front-end solutions for the Delphix DAAS platform.",
             "involvement": [
               {
-                "description": "Starting in August 2016."
+                "description": "Worked with cross-functional teams to convert a large, Flex codebase to Angular 1 for the Delphix Data Virtualization Engine.",
+                "description": "Gave technical talks related to TypeScript and front-end development onsite at Rice University and remotely at Kansas State University.",
+                "description": "Trained resources locally and in Argentina in the Front-End organization"
               }
-            ]
+            ],
+            "technologies": "Angular 1.5.x, React, TypeScript, Flex, Open ZFS, Java, Node.js, Review Board, Oracle LiveSource, Postgres"
           },
           {
             "name": "Garmin International",

@@ -1,0 +1,16 @@
+{
+  "name": "austin94.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:austin94/austin94.github.io.git",
+  "author": "Austin Green <austingreenkansas@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  },
+  "dependencies": {
+    "bootstrap": "4.0.0-beta.2",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.9"
+  }
+}

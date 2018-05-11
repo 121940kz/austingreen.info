@@ -1,7 +1,7 @@
 {
   "introduction": {
     "name": "Austin Green",
-    "description": "I am currently a Senior Member of Technical Staff on the End User team at Delphix in Redwood City, CA.  I come from a full-stack background, but have a primary focus on modern front-end technologies.  My primary experiences are with AngularJS, Angular (2+), and React with working knowledge of .NET MVC, Node.js, and Java.",
+    "description": "I am currently an engineer on the Garden Design Systems team at Zendesk in San Francisco, CA.  I come from a full-stack background, but focus on modern front-end technologies.  My primary experiences are with React, Angular (2+), and the .net MVC ecosystem.",
     "links": [
       {
         "text": "austingreenkansas@gmail.com",
@@ -71,10 +71,9 @@
             "name": "Zendesk",
             "url": "https://www.zendesk.com/",
             "location": "San Francisco, CA",
-            "subText": "Software Engineer - UI Components.  August 2017 - Present",
-            "description": "Create reusable front-end components in the Garden organization.",
-            "involvement": [],
-            "technologies": "Comming soon"
+            "subText": "Software Engineer - Garden Design System.  August 2017 - Present",
+            "description": "Create shared front-end tooling and libraries for Zendesk and the open-source <a href=\"https://garden.zendesk.com/\">Garden Design System</a>.",
+            "technologies": "ReactJS, Redux, styled-components, Lerna, TypeScript, Ruby/Rails"
           },
           {
             "name": "Delphix",
@@ -85,10 +84,10 @@
             "involvement": [
               {
                 "description": "Worked with cross-functional teams to convert a large, Flex codebase to Angular 1 for the Delphix Data Virtualization Engine."
-              }, 
+              },
               {
                 "description": "Gave technical talks related to TypeScript and front-end development onsite at Rice University and remotely at Kansas State University."
-              }, 
+              },
               {
                 "description": "Trained resources locally and in Argentina in the Front-End organization"
               }
